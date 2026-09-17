@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2026-06-26.md",
+                "file": "test git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-26"
+              "title": "Outline"
             }
           },
           {
@@ -193,12 +193,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 286
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46beb5c764d13217",
+  "active": "3d18346430fffa4f",
   "lastOpenFiles": [
     "Yocto/002_Concepts/Template.md",
     "test git.md",
