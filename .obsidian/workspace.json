@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "dbab63e78ce3ef0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f70945091519167",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfabcd821baa0795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yocto/002_Concepts/02-Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-Variables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0967b74df85b18c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1c7f56aabc6b9a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae1f44deee430291",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c7f73746dbcab019",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "77da3ffae821d870",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb7ce120462048ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcf132dedaa72f6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd56a37c8a075ca4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "87b286494afb9ddd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4de747152071ca8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journal/2026-06-26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-06-26"
+            }
+          },
+          {
+            "id": "0ea298736d0b5b9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journal/2026-06-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-06-26"
+            }
+          },
+          {
+            "id": "3b7b018c3b7271d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journal/2026-06-26.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-06-26"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dfabcd821baa0795",
+  "lastOpenFiles": [
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled.md",
+    "so ghi no.md",
+    "passwifi.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "nand2tetris/001_Concepts/02-Machine language.md",
+    "Yocto/002_Concepts/Overrides.md",
+    "Yocto/002_Concepts/metadata and layers.md",
+    "Yocto/002_Concepts/bitbake-getvar.md",
+    "Yocto/002_Concepts/05-Tasks.md",
+    "Yocto/002_Concepts/04-Build directory.md",
+    "Yocto/002_Concepts/03-Recipes.md",
+    "Yocto/002_Concepts/00-Introduction to Embedded Linux.md",
+    "Yocto/002_Concepts/01-Bitbake.md",
+    "Yocto/002_Concepts/02-Variables.md",
+    "nand2tetris/001_Concepts/03-Hack Programming.md",
+    "nand2tetris/001_Concepts/01-Hack Assembly Instructions.md",
+    "nand2tetris/001_Concepts/00-Computer Architecture.md",
+    "nand2tetris/001_Concepts/Quote.md",
+    "nand2tetris/001_Concepts/Registers in Hack computer.md",
+    "nand2tetris/000_Meta/Pasted image 20260728202242.png",
+    "nand2tetris/Template 1.md",
+    "journal/2026-07-28.md",
+    "journal/2026-07-27.md",
+    "Yocto/002_Concepts/Template.md",
+    "Yocto/002_Concepts/Shared state cache.md",
+    "Yocto/002_Concepts/Recipes.md",
+    "Yocto/002_Concepts/Virtual Providers.md",
+    "Yocto/001_Meta/Pasted image 20260721213631.png",
+    "Yocto/001_Meta/Pasted image 20260721213619.png",
+    "Yocto/001_Meta/Pasted image 20260708235648.png",
+    "nand2tetris/000_Meta/Pasted image 20260707200714.png",
+    "Yocto/002_Concepts/Untitled",
+    "nand2tetris/000_Meta/Pasted image 20260630215145.png",
+    "nand2tetris/001_Concepts",
+    "nand2tetris/000_Meta/Pasted image 20260630215604.png",
+    "nand2tetris/000_Meta",
+    "Yocto/000_training labs",
+    "Yocto/001_Meta/Pasted image 20260626104135.png",
+    "Yocto/001_Meta/Pasted image 20260626104046.png",
+    "Yocto/001_Meta/Pasted image 20260626103922.png",
+    "Yocto/001_Meta",
+    "nand2tetris",
+    "Yocto/002_Concepts"
+  ]
+}

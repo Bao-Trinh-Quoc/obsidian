@@ -1,0 +1,1 @@
+This image explains how wind power is generated in a rural landscape. You can see there are three turbines in the field. They operate at full capacity to generate clean energy. We should promote the usage of wind power in our everyday life.
