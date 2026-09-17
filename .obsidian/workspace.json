@@ -11,14 +11,10 @@
             "id": "dfabcd821baa0795",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yocto/002_Concepts/02-Variables.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "02-Variables"
+              "title": "New tab"
             }
           }
         ]
@@ -186,15 +182,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfabcd821baa0795",
+  "active": "ae1f44deee430291",
   "lastOpenFiles": [
     "Untitled 3.base",
     "Untitled 2.base",
-    "Untitled.md",
-    "so ghi no.md",
-    "passwifi.md",
     "Untitled 1.base",
     "Untitled.base",
+    "Untitled.md",
+    "Yocto/002_Concepts/Template.md",
+    "Yocto/002_Concepts/02-Variables.md",
+    "so ghi no.md",
+    "passwifi.md",
     "nand2tetris/001_Concepts/02-Machine language.md",
     "Yocto/002_Concepts/Overrides.md",
     "Yocto/002_Concepts/metadata and layers.md",
@@ -204,7 +202,6 @@
     "Yocto/002_Concepts/03-Recipes.md",
     "Yocto/002_Concepts/00-Introduction to Embedded Linux.md",
     "Yocto/002_Concepts/01-Bitbake.md",
-    "Yocto/002_Concepts/02-Variables.md",
     "nand2tetris/001_Concepts/03-Hack Programming.md",
     "nand2tetris/001_Concepts/01-Hack Assembly Instructions.md",
     "nand2tetris/001_Concepts/00-Computer Architecture.md",
@@ -214,7 +211,6 @@
     "nand2tetris/Template 1.md",
     "journal/2026-07-28.md",
     "journal/2026-07-27.md",
-    "Yocto/002_Concepts/Template.md",
     "Yocto/002_Concepts/Shared state cache.md",
     "Yocto/002_Concepts/Recipes.md",
     "Yocto/002_Concepts/Virtual Providers.md",
@@ -232,7 +228,6 @@
     "Yocto/001_Meta/Pasted image 20260626104046.png",
     "Yocto/001_Meta/Pasted image 20260626103922.png",
     "Yocto/001_Meta",
-    "nand2tetris",
-    "Yocto/002_Concepts"
+    "nand2tetris"
   ]
 }
