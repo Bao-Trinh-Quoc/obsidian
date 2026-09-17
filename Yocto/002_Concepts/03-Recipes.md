@@ -1,5 +1,7 @@
 ---
-tags: [yocto/concept, bootlin]
+tags:
+  - yocto/concept
+  - bootlin
 type: concept
 ---
 # [[03-Recipes]]
