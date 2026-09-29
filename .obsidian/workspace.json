@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nand2tetris/001_Concepts/04-Machine Language.md",
+                "file": "nand2tetris/001_Concepts/02-Machine language.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-Machine Language"
+              "title": "02-Machine language"
             }
           }
         ],
@@ -211,8 +211,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19ba634b43382073",
+  "active": "ae1f44deee430291",
   "lastOpenFiles": [
+    "nand2tetris/000_Meta/Pasted image 20260929213522.png",
     "nand2tetris/001_Concepts/03-Hack Programming.md",
     "nand2tetris/001_Concepts/04-Machine Language.md",
     "Yocto/002_Concepts/Shared state cache.md",
@@ -243,7 +244,6 @@
     "nand2tetris/Template 1.md",
     "journal/2026-07-28.md",
     "journal/2026-07-27.md",
-    "Yocto/002_Concepts/Recipes.md",
     "Yocto/001_Meta/Pasted image 20260721213631.png",
     "Yocto/001_Meta/Pasted image 20260721213619.png",
     "Yocto/001_Meta/Pasted image 20260708235648.png",

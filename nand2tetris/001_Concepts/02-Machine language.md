@@ -1,5 +1,5 @@
 ---
-tags: [yocto/concept, bootlin]
+tags:
 type: concept
 ---
 # [[Name of Concept]]
@@ -17,9 +17,6 @@ type: concept
 
 ![[Pasted image 20260630215604.png]]
 
-## How it relates to the build flow
-* Connect it to other parts of the ecosystem 
-[[02-Machine language]]
 
-## References
-* Bootlin Slide Page: #
+## Program translation
+![[Pasted image 20260929213522.png]]
