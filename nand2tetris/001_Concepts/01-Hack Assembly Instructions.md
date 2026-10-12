@@ -15,3 +15,11 @@ M = 1
 
 # C Instructions
 ![[Pasted image 20261010124200.png]]
+
+![[Pasted image 20261012223204.png]]
+
+![[Pasted image 20261012223516.png]]
+
+![[Pasted image 20261012223557.png]]
+
+![[Pasted image 20261012223618.png]]
