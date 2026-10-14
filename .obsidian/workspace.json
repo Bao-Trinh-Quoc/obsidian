@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "05-Input-Output"
             }
-          },
-          {
-            "id": "19ba634b43382073",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "nand2tetris/000_Meta/Pasted image 20261010124200.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261010124200"
-            }
           }
         ]
       }
@@ -194,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.8076171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,9 +198,14 @@
   },
   "active": "64f64c624a22a455",
   "lastOpenFiles": [
-    "Pasted image 20261012224619.png",
-    "nand2tetris/001_Concepts/04-Hack computer hardware.md",
+    "nand2tetris/000_Meta/Pasted image 20261014200452.png",
+    "nand2tetris/000_Meta/Pasted image 20261010124200.png",
+    "nand2tetris/000_Meta/Pasted image 20261014195940.png",
+    "nand2tetris/000_Meta/Pasted image 20261014200836.png",
     "nand2tetris/001_Concepts/05-Input-Output.md",
+    "nand2tetris/000_Meta/Pasted image 20261014194643.png",
+    "nand2tetris/000_Meta/Pasted image 20261012224619.png",
+    "nand2tetris/001_Concepts/04-Hack computer hardware.md",
     "nand2tetris/001_Concepts/01-Hack Assembly Instructions.md",
     "nand2tetris/000_Meta/Pasted image 20261012223618.png",
     "nand2tetris/000_Meta/Pasted image 20261012223557.png",
@@ -221,11 +214,6 @@
     "nand2tetris/000_Meta/Pasted image 20261012223516.png",
     "nand2tetris/000_Meta/Pasted image 20261012223357.png",
     "nand2tetris/000_Meta/Pasted image 20261012223204.png",
-    "Pasted image 20261012223432.png",
-    "Pasted image 20261012223500.png",
-    "nand2tetris/000_Meta/Pasted image 20261002220143.png",
-    "nand2tetris/000_Meta/Pasted image 20260728202242.png",
-    "nand2tetris/000_Meta/Pasted image 20260630215604.png",
     "test git.md",
     "Untitled.base",
     "nand2tetris/Template 1.md",
