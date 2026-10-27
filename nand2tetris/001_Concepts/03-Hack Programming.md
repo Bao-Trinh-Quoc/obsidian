@@ -143,3 +143,70 @@ M=M+1
 ```
 
 
+# multiply two numbers
+
+```
+@i
+
+M=0
+
+@R2
+
+M=0
+
+  
+
+// if i < R1 go to LOOP
+
+(IF)
+
+@i
+
+D=M
+
+@R1
+
+D=D-M
+
+@END
+
+D;JGE // if i - r1 >= 0
+
+  
+
+(LOOP)
+
+//r2=r0+r2
+
+@R0
+
+D=M
+
+@R2
+
+M=D+M
+
+// i++
+
+@i
+
+M=M+1
+
+  
+
+//REPEAT
+
+@IF
+
+0;JMP
+
+  
+  
+  
+
+(END)
+
+@END
+
+0;JMP
+```

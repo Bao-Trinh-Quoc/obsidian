@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nand2tetris/001_Concepts/01-Hack Assembly Instructions.md",
+                "file": "nand2tetris/001_Concepts/03-Hack Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Hack Assembly Instructions"
+              "title": "03-Hack Programming"
             }
           }
         ]
@@ -198,10 +198,10 @@
   },
   "active": "64f64c624a22a455",
   "lastOpenFiles": [
-    "nand2tetris/001_Concepts/03-Hack Programming.md",
+    "nand2tetris/001_Concepts/05-Input-Output.md",
     "nand2tetris/001_Concepts/Breadcumb.md",
     "nand2tetris/001_Concepts/01-Hack Assembly Instructions.md",
-    "nand2tetris/001_Concepts/05-Input-Output.md",
+    "nand2tetris/001_Concepts/03-Hack Programming.md",
     "nand2tetris/001_Concepts/04-Hack computer hardware.md",
     "nand2tetris/000_Meta/Pasted image 20261014200452.png",
     "nand2tetris/000_Meta/Pasted image 20261010124200.png",
