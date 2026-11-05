@@ -210,3 +210,129 @@ M=M+1
 
 0;JMP
 ```
+
+# Blacken the ENTIRE screen
+```
+// Sets screen to black (8192 words)
+
+  
+
+@8192
+
+D=A
+
+@n
+
+M=D         // n = 8192
+
+  
+
+@i
+
+M=0         // i = 0
+
+  
+
+@SCREEN
+
+D=A
+
+@address
+
+M=D         // address = 16384 (base address of the Hack screen)
+
+  
+
+(LOOP)
+
+    @i
+
+    D=M
+
+    @n
+
+    D=D-M
+
+    @END
+
+    D;JGT    // if i > n goto END
+
+  
+
+    @address
+
+    A=M      // writing to memory using a pointer
+
+    M=-1     // RAM[address] = -1 (16 pixels)
+
+  
+
+    @i
+
+    M=M+1    // i = i + 1
+
+  
+
+    @address
+
+    M=M+1
+
+  
+
+    @LOOP
+
+    0;JMP    // goto LOOP
+
+  
+
+(END)
+
+    @END     // program's end
+
+    0;JMP    // infinite loop
+```
+
+# press keyboard and don't
+
+```
+  
+  
+
+// if D > 0 then write one pixel
+
+// otherwise go te END
+
+(LOOP)
+
+@KBD
+
+D=M
+
+@END
+
+D;JLE
+
+  
+
+@SCREEN
+
+M=-1
+
+  
+
+@LOOP
+
+0;JMP
+
+  
+
+(END)
+
+@END
+
+@SCREEN
+
+M=0
+
+0;JMP
+```
