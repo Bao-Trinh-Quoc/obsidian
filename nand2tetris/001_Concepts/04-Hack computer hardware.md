@@ -6,3 +6,6 @@
 
 # Registers
 ![[Pasted image 20261010121905.png]]
+
+# Computer Basic architecture
+![[Pasted image 20261111200919.png|699]]
